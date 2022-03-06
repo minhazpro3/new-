@@ -1,0 +1,34 @@
+
+
+.text-header{
+    font-size: 5rem;
+}
+ 
+.color-text{
+    color: tomato;
+}
+
+.burger1-img img{
+    width: 450px;
+    height: 400px;
+    margin-left: 0mm;
+    margin-right: 55px;
+}
+
+.burger2-img img {
+    width: 350px;
+    height: 350px;
+    border: 2px solid red;
+    border-radius: 50%;
+}
+
+.customer{
+    width: 400px;
+    height: 340px;
+    gap: 20px;
+    padding: 100px 110px;
+}
+
+.customer h2 {
+    font-size: 5rem;
+}
